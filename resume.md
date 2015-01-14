@@ -1,83 +1,68 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# 奚杉杉
+## Java 工程师 / 全栈工程师
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
-
-------
-
-### Technical
-
-1. Java
-1. Android / iOS
-1. Javascript / NodeJS
-1. Python
-1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+> [github.com](https://github.com/evanhsiwood)
+> [18616348933@126.com](mailto:18616348933@126.com)
+> 18616348933
 
 ------
 
-### Experience
+### 技能
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+开发（后端）：Java, Spring, MyBatis, Maven, Gradle, C#
 
-**Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
-	Designed and implemented features and improvements for multiple enterprise sized applications.
-	Automated manual report generation for legacy ticketing system to provide reliable team analytics.
-	Provided quality solutions to mission critical production issues in a timely manner.
-	Proposed, designed and implemented a realtime tracking, deployment and notification system for test environments.
-	**Technical Environment** Weblogic/Websphere, SpringSource/Wicket, MSSQL/Oracle, JUnit.
+开发（前端）：JavaScript/CoffeeScript, Sass, Backbone.js, Knockout.js, AngularJS, Gulp, Browerify 等 tool chain, Cordova。
 
-**We Can Pretend** *Technical Consultant* __2011__
-	Architected and implemented a interactive media streaming service that enabled realtime, massively multiplayer, jeopardy-style interactions.
-	Built host interface to inject synchronized prompts, overlays and widgets into live video stream.
-	Created detailed documentation regarding technical requirements, project time lines and staffing guidelines for realizing total product offering.
-	**Technical Environment** Wowza Media Server, Adobe Flex, Javascript.
-
-<!--
-**Redline Distribution** *Web Application Developer* __2008__
-	Wrote a versatile Java EE based, database-driven, e-commerce system for the real time sale, processing and shipping of products available from external distributors such as Baker-Taylor and DeepDiscount.
-	The system interfaced with external distributors to ensure current inventory, status and price and used AJAX rich components to improve usability, convenience and efficiency.
-	**Technical Environment** JBoss, Seam, MySQL, Hibernate, JSF, RichFaces, EJB.
--->
-
-**CIBC** *Test Analyst* __2007 to 2008__
-	Eliminated manual testing processes with automated QTP scripts to increase productivity and limit repetitive human task based testing.
-	Worked cohesively with other developers and team members to plan, design and implement multi-system automated tests which simulate multiple users and roles.
-	**Technical Environment** VB, Quick Test Professional.
+工具：Linux tool chain, Git，MySQL，SQL Server。
 
 ------
 
-### Projects
+### 自我评价
 
-* **Ethical Barcode**
-	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
-	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
+对具有产出的技术抱有浓厚的热情。后端热衷于端口-适配器架构和领域驱动建模。前端热衷于研究使用轻量级，性能好，效果炫，自定义程度高的技术。前端个人目前致力于使用 Backbone.js，Famo.us 打造接近于原生体验的 mobile app。
 
-* **Halifax Crime Heatmap**
-	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
-	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
+熟练阅读英文，经常浏览 hacker news，twitter，thoughtworks 等网站和英文博客。
 
-* **Foxish**
-	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
+目标是打造简洁和生命力持久的项目。
+
 
 ------
 
-### Education
+### 工作经历
 
-**Bachelor of Technology (Software Development)** __2003 to 2007__
-	Seneca College of Applied Arts and Technology (Seneca@York), Toronto, Ontario
+**大众点评** *研发工程师* __2012 至今__
+	
+	- 大众点评 CRM Salesforce 开发
+	- 大众点评校招社招网站开发
+	- 大众点评网入职系统开发
+	- 大众点评网内部门户网站
+	- 大众点评内部SSO开发
+	- 手机端内部员工产品开发
+	- 大众点评阿波罗项目（SSO 二期，权限系统开发）
+	- 企业微信号
+	- 员工主数据
+	- Workday 项目报表和接口开发
+	- HROA 流程开发
+
+------
+
+### 项目经历（前端）
+
+* **点评入职系统前端 / 点评内部门户网站 / 点评中央权限系统前端**
+	点评入职系统使用公司自有前端框架，框架基于 Knockout.js，sea.js，jQuery，Bootstrap，underscore.js，搭建简单 mock server 前后端隔离开发，使用 Grunt 编译压缩和版本管理，通过修改点评中央配置系统热上线回滚。
+	
+------
+	
+	
+* **点评内部员工手机App（hybrid）**
+	同样基于上述框架，使用同类轻量级框架，Bootstrap 使用 ionic 的 css 库代替，jQuery 使用 zepto.js 代替，使用 lodash.js 代替 underscore.js。最终使用 cordova 打包成 ipa。期间主要解决的难点是使用 Application Cache，和使用后在 IOS 7 失效的 bug（history.length 恒等于 1）。
+	
+* **微信企业号 mobile web**
+	根据 ionic 样式自己写了套 CSS guideline，帮助后期快速开发。使用 AngularJS。正在使用 Backbone.js 搭建新的轻量级的框架以替换 AngularJS。
+
+------
+
+### 教育经历
+
+**中国矿业大学** __2009.08 - 2013.06__
+	 通信工程 本科
